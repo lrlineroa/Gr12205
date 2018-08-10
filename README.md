@@ -1,11 +1,11 @@
-Calles sin delincuencia
+**Calles sin delincuencia**
 
 Reto
 
 ¿Cómo podemos incrementar la percepción de seguridad a
 través de la efectividad en las denuncias?
 
-Situación
+**Situación**
 
 La situación de la localidad parte de que la gente siente
 inseguridad en la localidad a todas horas, de día o de noche.
@@ -15,7 +15,7 @@ situaciones que expresan los participantes. Sienten que ni policía
 ni la justicia no actúan de la mejora manera para solucionar ese
 tema.
 
-Oportunidad/Problemática
+**Oportunidad/Problemática**
 
 La oportunidad que perciben los participantes tiene que ver con
 una mejor, más eficiente y ágil respuesta de la policía. Sienten
@@ -24,7 +24,7 @@ caminar con mayor tranquilidad en la localidad, poder pasear
 por los parques sin drogadicción alrededor y poder tener una
 mejor comunicación con los entes judiciales.
 
-Expectativa/Alcance
+**Expectativa/Alcance**
 
 La expectativa de los habitantes se basa en desarrollar
 aplicaciones digitales que ayuden a poder realizar denuncias,
