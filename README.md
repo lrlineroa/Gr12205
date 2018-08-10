@@ -1,6 +1,6 @@
-**Calles sin delincuencia**
+#Calles sin delincuencia
 
-Reto
+**Reto**
 
 ¿Cómo podemos incrementar la percepción de seguridad a
 través de la efectividad en las denuncias?
